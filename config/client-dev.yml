@@ -1,1 +1,2 @@
-testconf:isconfig1
+testconf:
+  isconfig1
